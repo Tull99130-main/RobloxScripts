@@ -85,14 +85,14 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-## Contributing
+## Contributors
 
 Contributions are welcome! If you have ideas for new scripts or improvements to existing ones, feel free to:
 
-1. Fork the repository.
-2. Make your changes.
+1. Comment on the Repository.
+2. Make your changes, and submit them.
 3. Submit a pull request.
 
 ---
 
-**Happy scripting!** 🚀
+# **Happy scripting!** 🚀
