@@ -57,10 +57,7 @@ This repository contains custom `.lua` scripts that can enhance player experienc
 
 ## How to Use
 
-1. **Download or Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/roblox-custom-scripts.git
-   ```
+1. **Go to the [Scripts](./Scripts/) folder, and select a script:**
 
 2. **Copy the Scripts into Your prefered Executor:**
    - Open your Roblox Game.
